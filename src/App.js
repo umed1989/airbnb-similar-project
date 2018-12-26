@@ -12,7 +12,7 @@ export default () => (
   <div className="container">
     <ReactiveBase
       app="housing"
-      credentials="0aL1X5Vts:1ee67be1-9195-4f4b-bd4f-a91cd1b5e4b5"
+      credentials=""
       type="listing"
       theme={{
         primaryColor: "#FF3A4E"
